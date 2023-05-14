@@ -36,14 +36,28 @@
             "id": "9300fadead606115",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "system_relationships_draft.drawio.svg"
+                "file": "SystemDescription.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85a8b4e13d3414d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Requirements.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -88,6 +102,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "8a1610aad2186864",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -109,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system_relationships_draft.drawio.svg",
+                "file": "Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system_relationships_draft.drawio.svg",
+                "file": "Requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system_relationships_draft.drawio.svg"
+                "file": "Requirements.md"
               }
             }
           }
@@ -171,10 +193,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9300fadead606115",
+  "active": "85a8b4e13d3414d4",
   "lastOpenFiles": [
-    "Requirements.md",
+    "es_diagram.svg",
     "system_relationships_draft.drawio.svg",
+    "Requirements.md",
     "SystemDescription.md",
     "system_relationships.drawio.svg",
     "README.md"
