@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SystemDescription.md",
+                "file": "SystemDescription_week0.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SystemDescription.md",
+                "file": "SystemDescription_week0.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Requirements.md",
+                "file": "SystemDescription_week1.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Requirements.md",
+                "file": "SystemDescription_week1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Requirements.md",
+                "file": "SystemDescription_week1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Requirements.md"
+                "file": "SystemDescription_week1.md"
               }
             }
           }
@@ -193,12 +193,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85a8b4e13d3414d4",
+  "active": "6a53b81ae239bea3",
   "lastOpenFiles": [
+    "SystemDescription_week0.md",
+    "SystemDescription_week1.md",
+    "Requirements.md",
+    "data_diagram.svg",
     "es_diagram.svg",
     "system_relationships_draft.drawio.svg",
-    "Requirements.md",
-    "SystemDescription.md",
     "system_relationships.drawio.svg",
     "README.md"
   ]
