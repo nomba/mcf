@@ -4,60 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "032fdeb9785a3124",
+        "id": "c369a83e11b258f3",
         "type": "tabs",
         "children": [
           {
-            "id": "efb4cf28275af1ec",
+            "id": "2679ddc8d5e5943c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
           },
           {
-            "id": "981b363dafe3933c",
+            "id": "556369917ded68b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SystemDescription_week0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9300fadead606115",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SystemDescription_week0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85a8b4e13d3414d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SystemDescription_week1.md",
+                "file": "Requirements.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SystemDescription_week1.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SystemDescription_week1.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SystemDescription_week1.md"
+                "file": "README.md"
               }
             }
           }
@@ -193,15 +167,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a53b81ae239bea3",
+  "active": "2679ddc8d5e5943c",
   "lastOpenFiles": [
-    "SystemDescription_week0.md",
-    "SystemDescription_week1.md",
-    "Requirements.md",
-    "data_diagram.svg",
+    "Feedback.md",
     "es_diagram.svg",
-    "system_relationships_draft.drawio.svg",
-    "system_relationships.drawio.svg",
-    "README.md"
+    "core_domain_chart.svg",
+    "arch_styles_comparation.png",
+    "README.md",
+    "week1/data_diagram.svg",
+    "Requirements.md",
+    "week1/es_diagram.svg",
+    "sub_domains_bounded_contexts.svg",
+    "week1/SystemDescription.md",
+    "week0/SystemDescription.md",
+    "week0/system_relationships_draft.drawio.svg",
+    "week0",
+    "week1",
+    "Untitled Diagram.svg",
+    "tools",
+    "New folder",
+    "Untitled Diagram 1.svg.md",
+    "Untitled Diagram 1.svg",
+    "Requ.md",
+    "system_relationships.drawio.svg"
   ]
 }
