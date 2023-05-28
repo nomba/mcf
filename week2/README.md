@@ -5,7 +5,6 @@
 Описание задачи и требования здесь:
 [Requirements](Requirements.md)
 
-
 ## Задание второй домашки
 
 1. Core Domain Chart

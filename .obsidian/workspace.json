@@ -11,27 +11,116 @@
             "id": "2679ddc8d5e5943c",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "temp/Pasted image 20230525193245.png"
+              }
+            }
+          },
+          {
+            "id": "6fd4d6020a3c1112",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "temp/Обсуждение домашки 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "556369917ded68b5",
+            "id": "478aa5834fe5eb3c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "temp/Pasted image 20230525205145.png"
+              }
+            }
+          },
+          {
+            "id": "9b88ebf5787521a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Requirements.md",
+                "file": "temp/Обсуждение домашки 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e0ffe6ba6ea6fdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "temp/Обсуждение домашки 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a6c486e9e2ecca4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "temp/Pasted image 20230525205145.png"
+              }
+            }
+          },
+          {
+            "id": "8b2a11ab2282abbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "week2/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a03d62c6a70a9315",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "temp/Pasted image 20230525193245.png"
+              }
+            }
+          },
+          {
+            "id": "104500362f2d1bfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "week2/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f03ae4741e719a2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "temp/Обсуждение домашки 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -105,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "week2/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "week2/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "week2/README.md"
               }
             }
           }
@@ -167,28 +256,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2679ddc8d5e5943c",
+  "active": "8b2a11ab2282abbb",
   "lastOpenFiles": [
-    "Feedback.md",
-    "es_diagram.svg",
-    "core_domain_chart.svg",
-    "arch_styles_comparation.png",
-    "README.md",
-    "week1/data_diagram.svg",
     "Requirements.md",
+    "week2/README.md",
+    "Feedback.md",
+    "week2/sub_domains_bounded_contexts.svg",
+    "week2/es_diagram_draft.svg",
+    "week2/core_domain_chart.svg",
+    "week2/arch_styles_comparation.png",
+    "temp/Обсуждение домашки 2.md",
+    "temp/Pasted image 20230525193245.png",
+    "temp/Pasted image 20230525195324.png",
+    "temp/Pasted image 20230525205145.png",
+    "temp",
+    "week2",
+    "Pasted image 20230525193235.png",
+    "week1/data_diagram.svg",
     "week1/es_diagram.svg",
-    "sub_domains_bounded_contexts.svg",
     "week1/SystemDescription.md",
     "week0/SystemDescription.md",
-    "week0/system_relationships_draft.drawio.svg",
     "week0",
     "week1",
-    "Untitled Diagram.svg",
     "tools",
     "New folder",
     "Untitled Diagram 1.svg.md",
-    "Untitled Diagram 1.svg",
-    "Requ.md",
-    "system_relationships.drawio.svg"
+    "Requ.md"
   ]
 }
