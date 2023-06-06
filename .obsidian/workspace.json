@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81fcd447e457fada",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Feedback.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d3d47d95b01b5ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Requirements.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc902abd643a37ab",
+            "id": "21bc4b8573f69dc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,9 +18,52 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "449f7697c54ab70a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Домашка_4.pdf"
+              }
+            }
+          },
+          {
+            "id": "e5bf667c9580e36f",
+            "type": "leaf",
+            "state": {
+              "type": "diagram",
+              "state": {
+                "file": "week3/arch_communication.svg"
+              }
+            }
+          },
+          {
+            "id": "a6c49377cf3eeb20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "week3/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e907b4dba4556eb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "week3/Requirements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,24 +199,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc902abd643a37ab",
+  "active": "21bc4b8573f69dc6",
   "lastOpenFiles": [
-    "sub_domains_bounded_contexts.svg",
+    "week3/arch_communication.svg",
+    "Домашка_4.pdf",
+    "week3/Requirements.md",
+    "week3/README.md",
+    "README.md",
+    "refactor_style_guide.png",
+    "week3/arch_composition.svg",
+    "week3/sub_domains_bounded_contexts.svg",
+    "week3/stakeholder_concerns.svg",
+    "week3/diff_contexts_in_subdomain.png",
+    "week3/db_choice_ref.png",
+    "week3/core_domain_chart.svg",
+    "week3/context_mapping.svg",
+    "week1/es_diagram.svg",
+    "Requirements.md",
+    "Домашка_4.zip",
+    "Unconfirmed 303599.crdownload",
+    "Unconfirmed 658096.crdownload",
+    "Unconfirmed 159109.crdownload",
+    "Unconfirmed 927402.crdownload",
     "week2/README.md",
     "Feedback.md",
-    "Requirements.md",
-    "README.md",
-    "Pasted image 20230528144230.png",
-    "Pasted image 20230528144214.png",
-    "Pasted image 20230528144122.png",
-    "Pasted image 20230528144049.png",
-    "Pasted image 20230528143948.png",
-    "arch_communication.svg",
-    "db_choice_ref.png",
-    "diff_contexts_in_subdomain.png",
-    "confused-travolta-meme-doodle.gif",
     "confused-travolta-meme-doodle.gif.crdownload",
-    "context_mapping.svg",
     "week0/SystemDescription.md",
     "week2/Requirements.md",
     "week1/SystemDescription.md",
@@ -205,9 +231,6 @@
     "temp",
     "week2",
     "week0",
-    "week1",
-    "tools",
-    "New folder",
     "Untitled Diagram 1.svg.md",
     "Requ.md"
   ]
