@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "week4/README.md",
+                "file": "Roadmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,9 +23,11 @@
             "id": "e5bf667c9580e36f",
             "type": "leaf",
             "state": {
-              "type": "diagram",
+              "type": "markdown",
               "state": {
-                "file": "week3/arch_communication.svg"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -41,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "week4/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "week4/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "week4/README.md"
+                "file": "README.md"
               }
             }
           }
@@ -177,11 +180,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e48918356fc332d3",
+  "active": "e5bf667c9580e36f",
   "lastOpenFiles": [
-    "c4_layer2_example.png",
     "Roadmap.md",
     "README.md",
+    "week3/arch_communication.svg",
+    "week3/Requirements.md",
+    "week4/README.md",
+    "c4_layer2_example.png",
     "week4/Домашка_4-1.png",
     "week4/warehouse_triggers_worker_flow.png",
     "week4/system_instability.svg",
@@ -189,16 +195,12 @@
     "week4/Requirements.md",
     "week4/refactoring_stages.png",
     "week4/refactor_style_guide.png",
-    "week4/README.md",
     "week4/instability_worker_principal.png",
     "week4/instability_worker_dependent.png",
-    "week4/instability_worker_deleted.png",
-    "week4/instability_formula.png",
     "week4",
     "New folder",
     "Домашка_4.png.md",
     "Feedback.md",
-    "week3/Requirements.md",
     "week3/README.md",
     "Домашка_4.pdf",
     "Requirements.md",
